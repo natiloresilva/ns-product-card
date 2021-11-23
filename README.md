@@ -6,10 +6,10 @@ Este es un paquete de pruebas de despliegue en NPM
 
 ## Ejemplo
 
-````
+```
 import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'ns-product-card'
 
-```
+
     <ProductCard
         product={product}
         initialValues={{
@@ -29,5 +29,5 @@ import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'ns-produc
 
             </ProductCard>
 
+
 ```
-````
